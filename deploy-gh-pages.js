@@ -9,8 +9,8 @@ const __dirname = path.dirname(__filename);
 console.log('Building and deploying to GitHub Pages...');
 
 // Change these values to your own GitHub information
-const GITHUB_USERNAME = 'grantonmuru'; // Replace with your GitHub username
-const REPO_NAME = 'portfolio'; // Replace with your repository name 
+const GITHUB_USERNAME = 'MburuGranton'; // Replace with your GitHub username
+const REPO_NAME = 'GRANTONOFFICIALPORTFOLIO'; // Replace with your repository name 
 const BRANCH = 'gh-pages';
 
 // We'll use the default GitHub URL format, no need to specify the full repo URL
